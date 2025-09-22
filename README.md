@@ -26,17 +26,18 @@ I have just graduated in Computer Engineering and Cybersecurity and I am current
 - Professional Ethics
 
 
-## 💬 How to reach me:
-
-- Email: faggioemanuele@live.it
-- LinkedIn: https://www.linkedin.com/in/emanuele-faggio-0a7b48193/
-
-
-## ⚽💻 Experience:
+## 💻 Experience:
 
 - Apple Developer Academy  
 - Bachelor’s Degree in Computer Engineering  
   University of Naples Federico II  
 - Master’s Degree in Computer Engineering - Cybersecurity  
   University of Naples Federico II
+
+  
+## 💬 How to reach me:
+
+- Email: faggioemanuele@live.it
+- LinkedIn: https://www.linkedin.com/in/emanuele-faggio-0a7b48193/
+
 
