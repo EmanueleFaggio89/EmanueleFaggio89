@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]!
+# 👋 Hi, I’m Emanuele Faggio!
 
 I’m a passionate Cybersecurity Engineer who loves technology and innovation. I enjoy tackling technical challenges and contributing to open-source projects that make a positive impact.
 
@@ -31,9 +31,12 @@ I have just graduated in Computer Engineering and Cybersecurity and I am current
 - Email: faggioemanuele@live.it
 - LinkedIn: https://www.linkedin.com/in/emanuele-faggio-0a7b48193/
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+## ⚽💻 Experience:
 
----
+- Apple Developer Academy  
+- Bachelor’s Degree in Computer Engineering  
+  University of Naples Federico II  
+- Master’s Degree in Computer Engineering - Cybersecurity  
+  University of Naples Federico II
 
