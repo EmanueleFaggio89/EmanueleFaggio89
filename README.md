@@ -37,7 +37,7 @@ I have just graduated in Computer Engineering and Cybersecurity and I am current
   
 ## 💬 How to reach me:
 
-- Email: faggioemanuele@live.it
-- LinkedIn: https://www.linkedin.com/in/emanuele-faggio-0a7b48193/
+- **Email:** faggioemanuele@live.it
+- **LinkedIn:** https://www.linkedin.com/in/emanuele-faggio-0a7b48193/
 
 
